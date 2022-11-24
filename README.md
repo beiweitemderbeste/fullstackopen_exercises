@@ -1,13 +1,15 @@
 # Exercises of fullstackopen.com
 
-## part 0 (4/6)
+Status: 20/40
+
+## part 0 (6/6)
 
 - [x] [0.1 HTML](./part0/0.1.md)
 - [x] [0.2 CSS](./part0/0.2.md)
 - [x] [0.3 HTML forms](./part0/0.3.md)
 - [x] [0.4 new note](./part0/0.4.md)
-- [ ] 0.5 Single page app
-- [ ] 0.6 New note
+- [x] [0.5 Single page app](./part0/0.5.md)
+- [x] [0.6 New note](./part0/0.6.md)
 
 ## part 1 (10/14)
 
