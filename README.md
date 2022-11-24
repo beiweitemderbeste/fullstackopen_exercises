@@ -13,20 +13,20 @@ Status: 20/40
 
 ## part 1 (10/14)
 
-- [x] 1.1 course information step1
-- [x] 1.2 course information step2
-- [x] 1.3 course information step3
-- [x] 1.4 course information step4
-- [x] 1.5 course information step5
-- [x] 1.6 unicafe step1
-- [x] 1.7 unicafe step2
-- [x] 1.8 unicafe step3
-- [x] 1.9 unicafe step4
-- [ ] 1.10 unicafe step5
-- [x] 1.11 unicafe step6
-- [x] 1.12 anecdotes step1
-- [ ] 1.13 anecdotes step2
-- [ ] 1.14 anecdotes step3
+- [x] [1.1 course information step1](./part1/1.1.md)
+- [x] [1.2 course information step2](./part1/1.2.md)
+- [x] [1.3 course information step3](./part1/1.3.md)
+- [x] [1.4 course information step4](./part1/1.4.md)
+- [x] [1.5 course information step5](./part1/1.5.md)
+- [x] [1.6 unicafe step1](./part1/1.6.md)
+- [x] [1.7 unicafe step2](./part1/1.7.md)
+- [x] [1.8 unicafe step3](./part1/1.8.md)
+- [x] [1.9 unicafe step4](./part1/1.9.md)
+- [ ] [1.10 unicafe step5](./part1/1.10.md)
+- [x] [1.11 unicafe step6](./part1/1.11.md)
+- [x] [1.12 anecdotes step1](./part1/1.12.md)
+- [ ] [1.13 anecdotes step2](./part1/1.13.md)
+- [ ] [1.14 anecdotes step3](./part1/1.14.md)
 
 ## part 2 (4/20)
 
