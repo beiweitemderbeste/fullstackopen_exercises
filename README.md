@@ -2,12 +2,12 @@
 
 ## part 0 (3/6)
 
-- [x] 0.1: HTML
-- [x] 0.2: CSS
-- [x] 0.3: HTML forms
-- [ ] 0.4: new note
-- [ ] 0.5: Single page app
-- [ ] 0.6: New note
+- [x] 0.1 HTML
+- [x] 0.2 CSS
+- [x] 0.3 HTML forms
+- [ ] 0.4 new note
+- [ ] 0.5 Single page app
+- [ ] 0.6 New note
 
 ## part 1 (10/14)
 
@@ -21,18 +21,18 @@
 - [x] 1.8 unicafe step3
 - [x] 1.9 unicafe step4
 - [ ] 1.10 unicafe step5
-- [ ] 1.11 unicafe step6
+- [x] 1.11 unicafe step6
 - [x] 1.12 anecdotes step1
 - [ ] 1.13 anecdotes step2
 - [ ] 1.14 anecdotes step3
 
-## part 2 
+## part 2 (0/20)
 
-- [ ] 2.1 Course information step6
-- [ ] 2.2 Course information step7
-- [ ] 2.3 Course information step8
-- [ ] 2.4 Course information step9
-- [ ] 2.5 separate module
+- [x] 2.1 Course information step6
+- [x] 2.2 Course information step7
+- [x] 2.3 Course information step8
+- [x] 2.4 Course information step9
+- [x] 2.5 separate module
 - [ ] 2.6 The Phonebook Step1
 - [ ] 2.7 The Phonebook Step2
 - [ ] 2.8 The Phonebook Step3
