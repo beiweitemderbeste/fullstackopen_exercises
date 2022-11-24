@@ -1,11 +1,11 @@
 # Exercises of fullstackopen.com
 
-## part 0 (3/6)
+## part 0 (4/6)
 
-- [x] 0.1 HTML
-- [x] 0.2 CSS
-- [x] 0.3 HTML forms
-- [ ] 0.4 new note
+- [x] [0.1 HTML](./part0/0.1.md)
+- [x] [0.2 CSS](./part0/0.2.md)
+- [x] [0.3 HTML forms](./part0/0.3.md)
+- [x] [0.4 new note](./part0/0.4.md)
 - [ ] 0.5 Single page app
 - [ ] 0.6 New note
 
@@ -26,7 +26,7 @@
 - [ ] 1.13 anecdotes step2
 - [ ] 1.14 anecdotes step3
 
-## part 2 (0/20)
+## part 2 (4/20)
 
 - [x] 2.1 Course information step6
 - [x] 2.2 Course information step7
