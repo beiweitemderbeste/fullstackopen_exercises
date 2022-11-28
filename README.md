@@ -1,6 +1,6 @@
 # Exercises of fullstackopen.com
 
-Status: 11/40
+Status: 13/40
 
 ## part 0 (6/6)
 
@@ -11,7 +11,7 @@ Status: 11/40
 - [x] [0.5 Single page app](./part0/0.5.md)
 - [x] [0.6 New note](./part0/0.6.md)
 
-## part 1 (5/14)
+## part 1 (7/14)
 
 - [x] [1.1 course information step1](./part1/1.1.md)
 - [x] [1.2 course information step2](./part1/1.2.md)
@@ -20,7 +20,7 @@ Status: 11/40
 - [x] [1.5 course information step5](./part1/1.5.md)
 - [x] [1.6 unicafe step1](./part1/1.6.md)
 - [x] [1.7 unicafe step2](./part1/1.7.md)
-- [ ] [1.8 unicafe step3](./part1/1.8.md)
+- [x] [1.8 unicafe step3](./part1/1.8.md)
 - [ ] [1.9 unicafe step4](./part1/1.9.md)
 - [ ] [1.10 unicafe step5](./part1/1.10.md)
 - [ ] [1.11 unicafe step6](./part1/1.11.md)
