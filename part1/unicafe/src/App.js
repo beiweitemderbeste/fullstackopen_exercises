@@ -2,9 +2,10 @@ import { useState } from 'react'
 
 const StatisticLine = ({ value, text }) => {
   return (
-    <p>
-      {text} {value}
-    </p>
+    <tr>
+      <td>{text}</td>
+      <td>{value}</td>
+    </tr>
   )
 }
 
