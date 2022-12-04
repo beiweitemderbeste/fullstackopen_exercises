@@ -32,6 +32,7 @@ Status: 20/293 (6,8%)
 
 - [x] [2.1 course information step6](./part2/2.1.md)
 - [x] [2.2 course information step7](./part2/2.2.md)
+- [x] [2.3 course information step8](./part2/2.2.md)
 
 ## part 3 (0/22)
 
