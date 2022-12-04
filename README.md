@@ -1,6 +1,6 @@
 # Exercises of fullstackopen.com
 
-Status: 17/293 (5,8%)
+Status: 20/293 (6,8%)
 
 ## part 0 (6/6)
 
@@ -11,7 +11,7 @@ Status: 17/293 (5,8%)
 - [x] [0.5 Single page app](./part0/0.5.md)
 - [x] [0.6 New note](./part0/0.6.md)
 
-## part 1 (12/14)
+## part 1 (14/14)
 
 - [x] [1.1 course information step1](./part1/1.1.md)
 - [x] [1.2 course information step2](./part1/1.2.md)
@@ -26,9 +26,12 @@ Status: 17/293 (5,8%)
 - [x] [1.11 unicafe step6](./part1/1.11.md)
 - [x] [1.12 anecdotes step1](./part1/1.12.md)
 - [x] [1.13 anecdotes step2](./part1/1.13.md)
-- [ ] [1.14 anecdotes step3](./part1/1.14.md)
+- [x] [1.14 anecdotes step3](./part1/1.14.md)
 
-## part 2 (0/20)
+## part 2 (1/20)
+
+- [x] [2.1 course information step6](./part2/2.1.md)
+- [x] [2.2 course information step7](./part2/2.2.md)
 
 ## part 3 (0/22)
 
