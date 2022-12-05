@@ -37,6 +37,7 @@ Status: 25/293 (8,5%)
 - [x] [2.5 course information step10](./part2/2.5.md)
 - [x] [2.6 the phonebook step1](./part2/2.6.md)
 - [x] [2.7 the phonebook step2](./part2/2.7.md)
+- [ ] [2.8 the phonebook step2](./part2/2.8.md)
 
 ## part 3 (0/22)
 
