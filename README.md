@@ -41,7 +41,7 @@ Status: 31/293 (10,6%)
 - [x] [2.9 the phonebook step4](./part2/2.9.md)
 - [x] [2.10 the phonebook step5](./part2/2.10.md)
 - [x] [2.11 the phonebook step5](./part2/2.11.md)
-- [ ] [2.12 data for countries step1](./part2/2.12.md)
+- [x] [2.12 data for countries step1](./part2/2.12.md)
 - [ ] [2.13 data for countries step2](./part2/2.13.md)
 - [ ] [2.14 data for countries step3](./part2/2.14.md)
 
