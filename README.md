@@ -1,6 +1,6 @@
 # Exercises of fullstackopen.com
 
-Status: 31/293 (10,6%)
+Status: 32/293 (10,9%)
 
 ## part 0 (6/6)
 
@@ -28,7 +28,7 @@ Status: 31/293 (10,6%)
 - [x] [1.13 anecdotes step2](./part1/1.13.md)
 - [x] [1.14 anecdotes step3](./part1/1.14.md)
 
-## part 2 (11/20)
+## part 2 (13/20)
 
 - [x] [2.1 course information step6](./part2/2.1.md)
 - [x] [2.2 course information step7](./part2/2.2.md)
@@ -42,7 +42,7 @@ Status: 31/293 (10,6%)
 - [x] [2.10 the phonebook step5](./part2/2.10.md)
 - [x] [2.11 the phonebook step5](./part2/2.11.md)
 - [x] [2.12 data for countries step1](./part2/2.12.md)
-- [ ] [2.13 data for countries step2](./part2/2.13.md)
+- [x] [2.13 data for countries step2](./part2/2.13.md)
 - [ ] [2.14 data for countries step3](./part2/2.14.md)
 
 ## part 3 (0/22)

@@ -1,8 +1,5 @@
-const CountryDetails = ({ search }) => {
-  const country = search[0]
-  const languages = Object.values(search[0].languages)
-
-  console.log(country.flags.png)
+const CountryDetails = ({ country }) => {
+  const languages = Object.values(country.languages)
 
   return (
     <div>

@@ -3,28 +3,30 @@ import { useState, useEffect } from 'react'
 import axios from "axios"
 
 import Search from "./components/Search"
-import CountriesList from "./components/CountriesList"
+import Result from "./components/Result"
 
 const App = () => {
+  const [allCountries, setAllCountries] = useState([])
   const [countries, setCountries] = useState([])
   const [searchCountry, setSearchCountry] = useState("")
 
-  const search = countries.filter(country => country.name.common.startsWith(searchCountry))
+  
+  const handleSearchChange = (event) => {
+    setSearchCountry(event.target.value)
+    const filteredCountries = allCountries.filter(country => country.name.common.toLowerCase().includes(searchCountry.toLowerCase()))
+    setCountries(filteredCountries)
+  }
 
   useEffect(() => {
     axios
       .get("https://restcountries.com/v3.1/all")
-      .then(response => setCountries(response.data))
+      .then(response => setAllCountries(response.data))
   }, [])
-
-  const handleSearchChange = (event) => {
-    setSearchCountry(event.target.value)
-  }
 
   return (
     <div>
       <Search searchCountry={searchCountry} handleSearchChange={handleSearchChange} />
-      <CountriesList search={search} />
+      <Result countries={countries} setCountries={setCountries} />
     </div>
   )
 }
